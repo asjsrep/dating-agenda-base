@@ -1,2 +1,3 @@
-# dating-agenda-base
-Base repo for dating agenda
+# Dating Agenda Base
+Base repo for [datingagenda.com] (https://www.datingagenda.com) 
+
